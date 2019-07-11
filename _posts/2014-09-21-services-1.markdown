@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: Chen-Yu.jpg
 category: Services
-title: Chen Yu:<br>Special Thanks
+title: Dr. Chen Yu:<br>Title
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  This is where abstract will be.

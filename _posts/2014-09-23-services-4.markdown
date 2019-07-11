@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: Kenneth-D-Forbus.jpg
 category: Services
-title: Kenji Doya<br>Font Awesome Icons
+title: Dr. Kenneth D. Forbus:<br>Title
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+This is where abstract will be.
