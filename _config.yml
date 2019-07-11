@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://globalaisummit.github.io
-title: Your Awesome Site
+title: Global AI Summit
 email: kimhj9502@gmail.com
-author: Your Name
+author: Hyeonjin Kim
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: CTL, SNU
+    url: https://ctl.snu.ac.kr/ko/introduction/map
+  - title: SNU
+    url: http://en.snu.ac.kr/
   - title: linkedin
     url: 
