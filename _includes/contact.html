@@ -1,4 +1,11 @@
 <section id="contact">
+	<head>
+		<style>
+		div.d {
+			line-height: 50px;
+		}
+		</style>
+	</head>
 	<div class="banner">
 		<div class="container">
 
@@ -6,21 +13,20 @@
 				<div class="col-lg-6">
 					<h2>Venue</h2>
 					<p> </p>
-					<p style = "font-size:1.3em">Center for Teaching and Learning</p>
-					<p style = "font-size:1.3em">Building #61, Seoul National University</p>
+					<p style = "font-size:1.3em">Room 320, Center for Teaching and Learning (Building #61)</p>
+					<p style = "font-size:1.3em">Seoul National University</p>
 					<p style = "font-size:1.3em">1, Gwanak-ro, Gwanak-gu, Seoul, Republic of Korea 08826</p>
 				</div>
 				<div class="col-lg-6">
 					<ul class="list-inline banner-social-buttons">
 						{% for social in site.social %}
 						<li>
-							<a href="{{ social.url }}" class="btn btn-default btn-lg"> <span class="network-name">{{ social.title }}</span></a>
+							<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-map-marker"></i> <span class="network-name"> {{ social.title }}</span></a>
 						</li>
 						{% endfor %}
 					</ul>
 				</div>
 			</div>
-
 		</div>
 		<!-- /.container -->
 
