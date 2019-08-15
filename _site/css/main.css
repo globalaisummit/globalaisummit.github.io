@@ -157,7 +157,7 @@ iframe {
 }
 
 .wrap-table100 {
-  width: 80%;
+  width: 90%;
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -177,7 +177,7 @@ th, td {
 
 .column1 {
   width: 25%;
-  padding-left: 40px;
+  /*padding-left: 40px;*/
 }
 
 .column2 {
